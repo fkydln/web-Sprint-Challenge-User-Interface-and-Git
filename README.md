@@ -34,13 +34,24 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+    semantic HTML is one of the ways to communicate between the code and browser, so eventually the user. Using Semantic HTML is important and it helps to the content. For example, using h1-h6 elements can change the font size, but it should be used for title according to the importance level. We should use font-size and font-weight to make it bolder or bigger rather than h1-h6 elements.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+    display:block; will make it like paragraphs and the next element will not be able to displayed next to the element. On the other hand display:inline; will allow us to display another element next to it. Secondly, block elements expand to fill their parent. However, inline elements contract to be just big enough to hold their children.
 
 3. What are the 4 areas of the box model?
 
+    The content edge, padding edge, border edge and margin edge.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+    cross axis. which is perpendicular to the main axis.
+
+
 5. Explain why git is valuable to a team of developers.
+
+    
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 

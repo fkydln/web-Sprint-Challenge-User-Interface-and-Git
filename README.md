@@ -51,7 +51,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 5. Explain why git is valuable to a team of developers.
 
-    
+    There are so many adcantages of using GitHub and Git Bash command line. Developers will be able to develope a part of a program and commit & push it regularly to keep updated with old versions. Developers will be able to restore old version in case have a bug that they can't figure out how to solve or just decide to keep older versions for preference. Also by creating pull requests, the engineer manager will be notified and the manager can see differences line by line on GitHub comparison before a developer merge it himself/herself. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
